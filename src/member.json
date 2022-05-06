@@ -1,0 +1,6 @@
+[
+  {"id":1, "Firstname": "laxmi narayana", "lastname":"kota","role":"software engineer"},
+  {"id":2, "Firstname": "narayana", "lastname":"kota","role":"software tester"},
+  {"id":3, "Firstname": "sai", "lastname":"dontha","role":"software tester"},
+  {"id":4, "Firstname": "venkatesh", "lastname":"vaidgula","role":"software engineer"}
+]
